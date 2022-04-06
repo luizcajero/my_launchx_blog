@@ -9,6 +9,6 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 🚀
 
-Soy Pasante en Arqueología por la ENAH, desde hace unos meses comencé a aprender sobre desarrollo de software! 
-Estoy muy emocionado y tengo muchas ganas de aprender. Si gustas dejarme algunas palabras puedes enviarme un
-tweet o escribirme desde github!
+Mis expectativas para Backend son aprender a utilizar herramientas básicas de un programador.
+Poder desarrollar los elementos básicos que necesito para hacer muy escalable mi conocimiento.
+Estoy emocionadoooo!!
