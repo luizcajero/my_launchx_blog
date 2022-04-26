@@ -1,5 +1,5 @@
 ---
-title: "Mi ruta de Aprendizaje Launch X"
+title: "¿Como voy con Backend Mission de Launch X?"
 date: 2022-04-25
 description: 'Te quiero platicar un recuento de lo que he aprendido en Launch X  de Innovaccion Virtual al 25 de Abril de 2022'
 ---
